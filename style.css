@@ -1,8 +1,4 @@
 .menu {
-    color:palevioletred
-}
-
-.menu{
     background-color:rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
@@ -10,7 +6,7 @@
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 400;
-    color: white;
+    color:palevioletred;
 }
 
 .body{
@@ -56,16 +52,16 @@ a:visited{
     position: relative;
 }
 
-.bodyimg p{
+.bodyimg h1{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 0%;
+    left: 0%;
     color: white;
 }
 
 .bodyimg h3{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 2%;
+    right: 0%;
     color: white;
 }
